@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "regular";
+  src:url("/fonts/DMSerifDisplay-Regular.ttf")
+}
+@font-face {
+  font-family: "italic";
+  src:url("/fonts/DMSerifDisplay-Italic.ttf")
+}
+
+
+h1{
+  font-family: regular
+}
+
+h2{
+  font-family: regular;
+}
+
+h3{
+  font-family: regular ;
+}
+
+p{
+  font-family: regular
+}
+
+
